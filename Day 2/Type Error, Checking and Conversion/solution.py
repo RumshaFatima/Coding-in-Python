@@ -5,10 +5,15 @@
 len("Hello")
 
 # Type Checking
-print(type("abc"))
+
+print(str(type("Hello")) + str(type(123)) + str(type(123.44)) + "and" + str(type(False)))
+
+ #...or...
+
+print(type("Hello"))
 print(type(123))
-print(type(3.14))
-print(type(True))
+print(type(123.44))
+print(type(False))
 
 # Type Conversion
 str()
@@ -23,3 +28,7 @@ print(type("Number of letters in your name: "))  # str
 print(type(length_of_name))  # int
 
 print("Number of letters in your name: " + str(length_of_name))
+
+#......or.....
+
+print("Number of letters in your name: " + str(len(input("Enter your name"))))
