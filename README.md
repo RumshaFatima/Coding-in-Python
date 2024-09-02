@@ -5,18 +5,18 @@ You can see my coding practice solutions in the “tasks&solutions.py” files w
 
 Below is the course content for the “Beginner” category:
 
-Section 01: Day 01 - Working with Variables in Python to Manage Data
+Section 01: Day 01 - Working with Variables in Python to Manage Data; 
 Project: Brand Name Generator using Python
 
-Section 02: Day 02 - Understanding Data Types and How To Manipulate Strings
+Section 02: Day 02 - Understanding Data Types and How To Manipulate Strings; 
 Project: BMI & Tip Calculator
 
-Section 03: Day 03 - Control Flow & Logical Operators
+Section 03: Day 03 - Control Flow & Logical Operators; 
 Project:
 
-Section 04: Day 04 - Randomization & Python Lists
+Section 04: Day 04 - Randomization & Python Lists; 
 Project:
 
-Section 05: Day 05 - Python Loops
+Section 05: Day 05 - Python Loops; 
 Project:
 
