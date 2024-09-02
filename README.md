@@ -5,7 +5,7 @@ You can see my coding practice solutions in the “tasks&solutions.py” files w
 
 Below is the course content for the “Beginner” category:
 
-Section 01: Day 01 - Working with Variables in Python to Manage Data; 
+Section 01: Day 01 - Working with Variables in Python to Manage Data; \n
 Project: Brand Name Generator using Python
 
 Section 02: Day 02 - Understanding Data Types and How To Manipulate Strings; 
