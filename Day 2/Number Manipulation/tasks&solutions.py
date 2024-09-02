@@ -35,6 +35,8 @@ score -= 1
 score *= 2
 score /= 2
 
+# f string use case
+
 score = 0
 height = 1.8
 is_winning = True
