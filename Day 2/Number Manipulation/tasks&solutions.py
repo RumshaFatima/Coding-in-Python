@@ -1,3 +1,13 @@
+#BMI Calculator
+
+height = 1.65 
+weight = 84
+
+# Calculate the bmi using weight and height.
+bmi = weight/(height**2)
+
+print(bmi)
+
 bmi = 84 / 1.65 ** 2
 
 # Original Float with decimal places
