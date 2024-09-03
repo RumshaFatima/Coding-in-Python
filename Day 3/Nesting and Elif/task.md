@@ -15,3 +15,4 @@ if english_score >= 90:
 In this case only when a student has over 90 on maths and english, do they get "You are good at everything".
 
 Note: You can also have if statements that don't have a paired else statement.
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/222f66e4-4e47-4fa6-b67e-7566dc938ed2">
