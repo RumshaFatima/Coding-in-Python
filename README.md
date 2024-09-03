@@ -13,7 +13,7 @@ Section 02: Day 02 - Understanding Data Types and How To Manipulate Strings
 (Project: BMI & Tip Calculators)
 
 Section 03: Day 03 - Control Flow & Logical Operators  
-Project:
+(Projects: Treasure Island Game, Pizza Billing System, Rollercoaster Ticketing System, BMI Calculator with Interpretations)
 
 Section 04: Day 04 - Randomization & Python Lists; 
 Project:
