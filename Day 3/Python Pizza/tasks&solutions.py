@@ -1,7 +1,7 @@
 print("Welcome to Python Pizza Deliveries!")
-size = input("What size pizza do you want? S, M or L: ")
-pepperoni = input("Do you want pepperoni on your pizza? Y or N: ")
-extra_cheese = input("Do you want extra cheese? Y or N: ")
+size = input("What size pizza do you want? S, M or L: ").strip().upper()
+pepperoni = input("Do you want pepperoni on your pizza? Y or N: ").strip().upper()
+extra_cheese = input("Do you want extra cheese? Y or N: ").strip().upper()
 
 # todo: work out how much they need to pay based on their size choice.
 
@@ -34,9 +34,9 @@ print(f"Your final bill is: ${bill}.")
 #..............OR.............
 
 print("Welcome to Python Pizza Deliveries!")
-size = input("What size pizza do you want? S, M or L: ")
-pepperoni = input("Do you want pepperoni on your pizza? Y or N: ")
-extra_cheese = input("Do you want extra cheese? Y or N: ")
+size = input("What size pizza do you want? S, M or L: ").strip().upper()
+pepperoni = input("Do you want pepperoni on your pizza? Y or N: ").strip().upper()
+extra_cheese = input("Do you want extra cheese? Y or N: ").strip().upper()
 bill=0
 if size=="S":
     if pepperoni=="Y":
