@@ -7,3 +7,31 @@ states_of_america.append("Angelaland")
 states_of_america.extend(["Angelaland", "Jack Bauer Land"])
 
 print(states_of_america)
+
+........................
+
+#Given the following list, Which line of code will give you "Apples"?
+
+fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+....................................................
+#Given the code below, What do you think will be printed?
+
+fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+fruits[-1] = "Melons"
+fruits.append("Lemons")
+print(fruits)
+.................................................
+
+#Given the code below, What will be printed?
+
+fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
+ 
+dirty_dozen = [fruits, vegetables]
+ 
+print(dirty_dozen[1][1])
+
+
+
+
+
