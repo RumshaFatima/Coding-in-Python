@@ -7,6 +7,7 @@ print("Welcome to the PyPassword Generator!")
 nr_letters = int(input("How many letters would you like in your password?\n"))
 nr_symbols = int(input(f"How many symbols would you like?\n"))
 nr_numbers = int(input(f"How many numbers would you like?\n"))
+total_characters= nr_letters+nr_symbols+nr_numbers
 
 # Easy Level
 # password = ""
@@ -42,3 +43,9 @@ for char in password_list:
 
 print(f"Your password is: {password}")
 
+#Hard Level Shortcut:
+
+password=(random.choices(letters,k=nr_letters)+random.choices(numbers, k=nr_numbers)+random.choices(symbols, k=nr_symbols))
+random.shuffle(password)
+final_password=(''.join(map(str,password)))
+print(f'Your Password is:{final_password}. Your password is {total_characters} characters long')
